@@ -3,7 +3,7 @@ ___________________________
 
 1. Скачать репозиторий:
 
-`git clone git@github.com:SummertimeSadnesss/DevOps-Practicum.git`
+`https://github.com/SummertimeSadnesss/DevOps-Practicum.git`
 
 2. Перейти в директорию скачанного проекта:
 
