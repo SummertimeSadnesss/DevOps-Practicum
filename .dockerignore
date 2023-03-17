@@ -1,1 +1,4 @@
-./screens
+**/.git
+/screens
+.gitignore
+NOTES.md
